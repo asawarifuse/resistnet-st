@@ -1,0 +1,9 @@
+data/synthetic/
+data/processed/
+results/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pt
+*.pth
+.env
